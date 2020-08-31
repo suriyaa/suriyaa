@@ -10,8 +10,8 @@ I'm an **entrepreneur** and hobby developer who is passionate about making open-
 ## Find me around the web 🌎
 - [Suriyaa's Website](https://about.suriyaa.tk) 🌐
 - [Schedule a Call](https://clarity.fm/suriyaasundararuban) :phone:
-- [Twitter](http://twitter.com/SuriyaaKudoIsc) :bird:
-- [LinkedIn](http://linkedin.com/in/suriyaakudo) 💼
+- [Twitter](https://twitter.com/SuriyaaKudoIsc) :bird:
+- [LinkedIn](https://linkedin.com/in/suriyaakudo) 💼
 - [YouTube](https://www.youtube.com/channel/UCBQ4OF7weja_jInXGnJVbkg) 📽 
 
 ----

@@ -13,3 +13,24 @@ I'm an **entrepreneur** and hobby developer who is passionate about making open-
 - [Twitter](http://twitter.com/SuriyaaKudoIsc) :bird:
 - [LinkedIn](http://linkedin.com/in/suriyaakudo) 💼
 - [YouTube](https://www.youtube.com/channel/UCBQ4OF7weja_jInXGnJVbkg) 📽 
+
+----
+
+<p align="center">
+  <a href="https://github.com/SuriyaaKudoIsc">
+    <img src="https://github-readme-stats.vercel.app/api?username=SuriyaaKudoIsc&hide=commits&count_private=true&show_icons=true" alt="Suriyaa's GitHub Stats">
+  </a>
+  <br><br>
+    <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/years/SuriyaaKudoIsc?style=flat-square&color=blue&logo=github">
+  </a>
+  <a href="https://github.com/SuriyaaKudoIsc?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/SuriyaaKudoIsc?style=flat-square&color=blue&logo=github">
+  </a>
+  <a href="https://gist.github.com/SuriyaaKudoIsc">
+    <img src="https://badges.pufler.dev/gists/SuriyaaKudoIsc?style=flat-square&color=blue&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/commits/monthly/SuriyaaKudoIsc?style=flat-square&color=blue&logo=github">
+  </a>
+</p>

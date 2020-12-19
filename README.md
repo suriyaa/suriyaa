@@ -30,7 +30,4 @@ I'm an **entrepreneur** and hobby developer who is passionate about making open-
   <a href="https://gist.github.com/suriyaa">
     <img src="https://badges.pufler.dev/gists/suriyaa?style=flat-square&color=blue&logo=github">
   </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/suriyaa?style=flat-square&color=blue&logo=github">
-  </a>
 </p>

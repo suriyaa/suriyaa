@@ -14,6 +14,14 @@ I'm an **entrepreneur** and hobby developer who is passionate about making open-
 - [LinkedIn](https://linkedin.com/in/suriyaakudo) 💼
 - [YouTube](https://www.youtube.com/channel/UCBQ4OF7weja_jInXGnJVbkg) 📽 
 
+## Open Source Community Funding
+Interested in supporting my Open Source projects and contributions? Or just want to buy a coffee for me? Here are a few options:
+- Sponsoring via [GitHub Sponsors](https://github.com/sponsors/suriyaa)
+- Donating with [crypto](https://commerce.coinbase.com/checkout/29b88d93-5fc3-40f5-a11c-ab8def95e3dd) of your choice
+- Donating with [PayPal](https://www.paypal.me/suriyaasundararuban) in any fiat currency
+
+By donating, you support my mission to make the world a better place with the power of Open Source. You can help me and the Open Source community to build, ship, and maintain better Open Source software on GitHub. I appreciate it. Thank you very much. 🙏
+
 ----
 
 <p align="center">

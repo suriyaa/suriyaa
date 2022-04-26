@@ -1,18 +1,31 @@
-# Hi, I'm [Suriyaa](https://www.suriyaa.tk)! 👋💻
+# Hi! 👋💻
 
 <!--
 **suriyaa/suriyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <a href="https://github.com/sponsors/suriyaa"><img align="right" width="300" height="300" src="https://github.com/suriyaa/suriyaa/blob/master/Fintechtocat.png?raw=true"></a>
-I'm an **entrepreneur** and hobby developer who is passionate about making open-source more accessible, creating products to elevate people, and bringing the whole world to the next level. Some technologies I was selected to be an <a href="https://archiveprogram.github.com/">Arctic Code Vault Contributor 🌟</a> in 2020 based on my public Open Source contributions to popular projects since 2013 on GitHub such as [Bitcoin](https://bitcoin.org/en/), [Django](https://www.djangoproject.com), [Ethereum](https://ethereum.org/en/), [Jekyll](https://jekyllrb.com), [Go](https://golang.org), [Firefox](https://www.mozilla.org/en-US/firefox/) and [Python](https://www.python.org). I have also contributed code to [NASA's Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter). :rocket:
+We live in a rapidly changing world. :earth_africa:
 
-## Find me around the web 🌎
-- [Suriyaa's Website](https://about.suriyaa.tk) 🌐
-- [Schedule a Call](https://clarity.fm/suriyaasundararuban) :phone:
-- [Twitter](https://twitter.com/SuriyaaKudoIsc) :bird:
-- [LinkedIn](https://linkedin.com/in/suriyaakudo) 💼
-- [YouTube](https://www.youtube.com/channel/UCBQ4OF7weja_jInXGnJVbkg) 📽 
+What if we can build a future more than we currently imagine? :crystal_ball:
+
+**I am [Suriyaa](https://about.suriyaa.tk/) and welcome to my GitHub profile page. I build software.**
+
+By connecting entrepreneurship and technology, I am passionate about making open source technology more accessible to everyone, enabling anyone to better their life circumstances.
+
+Together we can create new frontiers of human ambition and possibilities to [improve the world](https://sdgs.un.org/goals) significantly.
+
+Why are we still waiting? Let's get started! :rocket:
+
+<hr>
+
+## Connect with me :people_hugging:
+- [My Website](https://about.suriyaa.tk) :link:
+- [Follow me on Twitter](https://twitter.com/SuriyaaKudoIsc) :bird:
+- [Connect with me on LinkedIn](https://linkedin.com/in/suriyaasundararuban) :briefcase:
+
+## Achievements :trophy:
+I was selected to be an <a href="https://archiveprogram.github.com/">Arctic Code Vault Contributor 🌟</a> in 2020 based on my public Open Source contributions to popular projects since 2013 on GitHub such as [Bitcoin](https://bitcoin.org/en/), [Django](https://www.djangoproject.com), [Ethereum](https://ethereum.org/en/), [Jekyll](https://jekyllrb.com), [Go](https://golang.org), [Firefox](https://www.mozilla.org/en-US/firefox/) and [Python](https://www.python.org). I have also contributed code to [NASA's Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter).
 
 ## Open Source Community Funding
 Interested in supporting my Open Source projects and contributions? Or just want to buy a coffee for me? Here are a few options:

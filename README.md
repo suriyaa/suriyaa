@@ -38,6 +38,8 @@ By donating, you support my mission to make the world a better place with the po
 ----
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suriyaa&column=-1&margin-w=15&no-frame=true" alt="Suriyaa's GitHub trophy">
+  <br>
   <a href="https://github.com/suriyaa">
     <img src="https://github-readme-stats.vercel.app/api?username=suriyaa&hide=commits&count_private=true&show_icons=true" alt="Suriyaa's GitHub Stats">
   </a>

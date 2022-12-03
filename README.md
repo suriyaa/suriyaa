@@ -41,6 +41,10 @@ By donating, you support my mission to make the world a better place with the po
   <a href="https://github.com/suriyaa">
     <img src="https://github-readme-stats.vercel.app/api?username=suriyaa&hide=commits&count_private=true&show_icons=true" alt="Suriyaa's GitHub Stats">
   </a>
+  <br>
+  <a href="https://github.com/suriyaa">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=suriyaa&fire=FF0000" alt="Suriyaa's GitHub Streak Stats">
+  </a>
   <br><br>
   <a href="https://about.suriyaa.tk/">
     <img src="https://img.shields.io/website?url=https%3A%2F%2Fabout.suriyaa.tk">

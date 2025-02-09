@@ -4,11 +4,11 @@
 **suriyaa/suriyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<a href="https://about.suriyaa.tk/"><img align="right" width="300" height="300" src="https://github.com/suriyaa/suriyaa/blob/master/Fintechtocat.png?raw=true"></a>
+<a href="https://suriyaa.de/"><img align="right" width="300" height="300" src="https://github.com/suriyaa/suriyaa/blob/master/Fintechtocat.png?raw=true"></a>
 
 <p align="center">
-  <a href="https://about.suriyaa.tk/"><img src="https://img.shields.io/website?style=flat&url=https%3A%2F%2Fabout.suriyaa.tk"/></a>
-  <a href="mailto:github@suriyaa.tk"><img src="https://img.shields.io/badge/-github@suriyaa.tk-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://suriyaa.de/"><img src="https://img.shields.io/website?style=flat&url=https%3A%2F%2Fabout.suriyaa.tk"/></a>
+  <a href="mailto:github@suriyaa.de"><img src="https://img.shields.io/badge/-github@suriyaa.tk-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/suriyaasundararuban/"><img src="https://img.shields.io/badge/-Suriyaa%20Sundararuban-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/SuriyaaKudoIsc/"><img src="https://img.shields.io/badge/-/SuriyaaKudoIsc-000?style=flat&logo=X&logoColor=white"/></a>
 </p>
@@ -18,7 +18,7 @@ We live in a rapidly changing world. :earth_africa:
 
 What if we can build a better future than we currently imagine? :crystal_ball:
 
-**My name is [Suriyaa](https://about.suriyaa.tk/) and welcome to my GitHub profile page.**
+**My name is [Suriyaa](https://suriyaa.de/) and welcome to my GitHub profile page.**
 
 <a href="https://github.com/suriyaa"><img alt="I build software." src="https://readme-typing-svg.herokuapp.com?lines=I+build+software.&center=true&width=500&height=50"></a>
 
